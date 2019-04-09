@@ -32,6 +32,13 @@ Database db_pendaftaran_mhs
 
 ![alt text](https://github.com/ImeldaZahwaAracella27rpl/Modul5-6/blob/master/hasil%20bagian%205%20dan%206/(1).png)
 ![alt text](https://github.com/ImeldaZahwaAracella27rpl/Modul5-6/blob/master/hasil%20bagian%205%20dan%206/(2).png)
+
+Tabel Mahasiswa baru
+
 ![alt text](https://github.com/ImeldaZahwaAracella27rpl/Modul5-6/blob/master/hasil%20bagian%205%20dan%206/(3).png)
+
+Tabel Program Studi
+
+![alt text](https://github.com/ImeldaZahwaAracella27rpl/Modul5-6/blob/master/hasil%20bagian%205%20dan%206/(4).png)
 
 
